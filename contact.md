@@ -36,6 +36,6 @@ li a:hover {
 </ul>
 <h1>Contact Me</h1>
 <a href="https://www.linkedin.com/in/richard-m-4a0200165/">Linkedin</a>
-<p>Email: <a href="mailto:richardma1999@gmail.com"richardma1999@gmail.com</a></p>
+<p>Email: <a href="mailto:richardma1999@gmail.com">richardma1999@gmail.com</a></p>
 </body>
 </html>
