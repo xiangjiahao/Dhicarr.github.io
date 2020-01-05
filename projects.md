@@ -32,7 +32,7 @@ li a:hover {
   <li><a href="/">Home</a></li>
   <li><a class="active" href="/projects">Projects</a></li>
   <li><a href="/contact">Contact</a></li>
-  <li><a href="/resume">Résumé</a></li>
+  <li><a href="/resume.pdf">Résumé</a></li>
 </ul>
 <h1>Side-Projects</h1>
 <p>BMI Tracker</p>
