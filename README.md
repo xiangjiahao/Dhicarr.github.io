@@ -34,6 +34,7 @@ li a:hover {
   <li><a href="#contact">Contact</a></li>
   <li><a href="#about">Résumé</a></li>
 </ul>
- <h1>test</h1>
+ <h1>Introduction</h1>
+ <p>Hi, my name is Richard and I'm a 3rd year Computer Science student studying in University of Toronto. This personal website was created to help employers easily access my side projects, and view my personal info.
 </body>
 </html>
