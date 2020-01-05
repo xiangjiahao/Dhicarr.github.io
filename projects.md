@@ -35,6 +35,6 @@ li a:hover {
   <li><a href="/resume.pdf">Résumé</a></li>
 </ul>
 <h1>Side-Projects</h1>
-<p>BMI Tracker</p>
+<p>[BMI Calculator](https://dhicarr.github.io/bmitracker)</p>
 </body>
 </html>
