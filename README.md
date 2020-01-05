@@ -6,7 +6,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: auto;
-  background-color: #343;
+  background-color: #333;
 }
 
 li {
@@ -34,6 +34,6 @@ li a:hover {
   <li><a href="#contact">Contact</a></li>
   <li><a href="#about">Résumé</a></li>
 </ul>
-
+ <h1>test</h1>
 </body>
 </html>
