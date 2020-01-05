@@ -5,7 +5,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  overflow: hidden;
+  overflow: auto;
   background-color: #333;
 }
 
@@ -30,9 +30,9 @@ li a:hover {
 
 <ul>
   <li><a class="active" href="#home">Home</a></li>
-  <li><a href="#news">News</a></li>
+  <li><a href="#news">Projects</a></li>
   <li><a href="#contact">Contact</a></li>
-  <li><a href="#about">About</a></li>
+  <li><a href="#about">Résumé</a></li>
 </ul>
 
 </body>
