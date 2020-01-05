@@ -32,7 +32,7 @@ li a:hover {
   <li><a href="/">Home</a></li>
   <li><a href="/projects">Projects</a></li>
   <li><a class="active" href="/contact">Contact</a></li>
-  <li><a href="/resume">Résumé</a></li>
+  <li><a href="/resume.pdf">Résumé</a></li>
 </ul>
 <h1>Contact Me</h1>
 <p>Linkedin: https://www.linkedin.com/in/richard-m-4a0200165/</p>
