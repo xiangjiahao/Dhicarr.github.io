@@ -31,7 +31,7 @@ li a:hover {
 <ul>
   <li><a class="active" href="#home">Home</a></li>
   <li><a href="#projects">Projects</a></li>
-  <li><a href="#contact">Contact</a></li>
+  <li><a href="/contact">Contact</a></li>
   <li><a href="#resume">Résumé</a></li>
 </ul>
  <h1>Introduction</h1>
